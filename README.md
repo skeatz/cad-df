@@ -10,6 +10,7 @@ By the end of the course, participants will be able to:
 - Design and fabricate a functional prototype using 3D Printer and Laser Cutter
 
 ## Course Outline
+
 |S/No |Day |Topic |
 |-----|-----|------------|
 | 1	|Day 1 (0900 - 0915) |Introduction & Admin Matters |
