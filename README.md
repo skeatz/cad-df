@@ -52,4 +52,4 @@ Participants will be assessed on the following:
 2. [Computer Aided Design](files/02-cad.md)
 3. [3D Printing](files/03-3dprint.md)
 4. [Laser Cutting](files/04-lasercutting.md)
-5. [Embedded Programming](files/05-embedded.md)
+5. [Embedded Programming](files/05-arduino.md)
