@@ -18,13 +18,26 @@
 * [Epilog Gallery](https://www.epiloglaser.com/resources/sample-club.htm)
 * [Trotec Samples](https://www.troteclaser.com/en-sg/knowledge/do-it-yourself-samples/)
 
-## Assignment
-* Determine the kerf, power, speed, frequency/ppi settings for a laser cutter
-  * Note: do a test cut, e.g. small square 20mm x 20mm on cardboard or 2.6/3mm plywood
-* Design a parametric press-fit construction kit and cut it out on the laser cutter
-  * Your design must be parametric
-  * Parts should fit together without any glue or tape
-  * Assemble your press-fit kit
+## Design for Laser Cutting
+- [Lasercut Box in Onshape](https://www.youtube.com/watch?v=YfDmlx2LpFo)
+- [Onshape Export to DXF](https://www.youtube.com/watch?v=loRAOtHtFeo)
+- [Designing for Lasercutting](https://www.youtube.com/playlist?list=PLv5bCJpKDWIYj7n4dz6wZLkvJQazILfh-)
 
-## Worksheet
-- [Lasercut Box worksheet](lasercut-cube-worksheet.pdf)
+## File Generators for Laser Cutting
+- [MakerCase](https://www.makercase.com/#/)
+- [Make a Box](https://makeabox.io/)
+- [Template Maker - Paper Boxes](https://www.templatemaker.nl/en/)
+- [Involute Spur Gear Builder](http://hessmer.org/gears/InvoluteSpurGearBuilder.html?circularPitch=8&pressureAngle=20&clearance=0.05&backlash=0.05&profileShift=0&gear1ToothCount=30&gear1CenterHoleDiamater=4&gear2ToothCount=8&gear2CenterHoleDiamater=4&showOption=3)
+- [Gear Designer](https://www.jeromeleary.com/gears/)
+
+## Assignment
+1. Determine the kerf, power, speed, frequency/ppi settings for a laser cutter
+   - Note: do a test cut, e.g. small square 20mm x 20mm on cardboard or 2.6/3mm plywood
+2. Designa simple cube (60mm x 60mm x 60mm) and cut it out on the laser cutter.
+    - add finger joints to the cube using the "Laser Joint" featurescript
+    - layout the pieces for laser cutting using "Auto Layout" featurescript
+    - Export the parts as a dxf file
+3. Design a custom desktop penholder/stationery stand. Use the Laser Joint and Auto Layout featurescript to prepare the file, then export the dxf file for lasercutting.
+
+**Note**: As a minimum, use a *variable* for the thickness of the material in your design
+
