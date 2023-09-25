@@ -53,3 +53,4 @@ Participants will be assessed on the following:
 3. [3D Printing](files/03-3dprint.md)
 4. [Laser Cutting](files/04-lasercutting.md)
 5. [Embedded Programming](files/05-arduino.md)
+6. [Mini-Project Challenge](files/mini-project.pdf)
