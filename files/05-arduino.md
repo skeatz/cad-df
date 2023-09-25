@@ -3,6 +3,7 @@
 ## Notes
 *RD Notes*
 - [Introduction to Electronics](https://rdorville.github.io/EP1000/Electronics/electronics.html)
+- [Electronics Prototyping](electronics-prototyping.pdf)
 - [Introduction to Programming the Microcontroller](https://rdorville.github.io/EP1000/arduino/arduinoProgramming.html)
 - [Analog I/O](https://rdorville.github.io/EP1000/arduino/arduinoAnalogIO.html)
 - [Arduino Libraries](https://rdorville.github.io/EP1000/arduino/libraries.html)
