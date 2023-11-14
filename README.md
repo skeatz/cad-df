@@ -56,6 +56,7 @@ Participants will be assessed on the following:
 6. [Mini-Project Challenge](files/mini-project.pdf)
 
 ## Mini-project Examples
-- [Tea Machine 1](https://eamdesigns.com/tea-machine-pt1-arduino-based-prototyping)
+- [Tea Machine Part 1](https://homepages.uc.edu/~morriea/teamachine.html)
+- [Tea Machine Part 2](https://eamdesigns.com/tea-machine-pt1-arduino-based-prototyping)
 - [Automatic Tea Maker](https://www.instructables.com/Automatic-Tea-Maker/)
 - [Adafruit Automatic Tea Maker](https://blog.adafruit.com/2015/01/12/create-your-own-automated-tea-maker-with-arduino/)
