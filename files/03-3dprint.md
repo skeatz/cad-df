@@ -132,14 +132,14 @@
 * [GrabCAD](https://grabcad.com/)
 
 ### [Workflow] 
-![3D printing workflow](../images/03_3dprinting_workflow.jpg | width = 800)
+![3D printing workflow](../images/03_3dprinting_workflow.jpg)
 * 3D Model (design, download, scan)
 * Generate STL, OBJ, 3MF
 * Slicer
 * gcode
 
 ### [Parts of 3D Printer] 
-![Parts of 3D Printer](../images/03_3dprinter_components.jpg | width = 700 )
+![Parts of 3D Printer](../images/03_3dprinter_components.jpg)
 * filament
 * extruder
 * build plate
@@ -148,7 +148,7 @@
 * motor drives
 
 **Ultimaker 2+ Parts**
-![Ultimaker 2+ parts](../images/03_Ultimaker2.png | width = 7000 )
+![Ultimaker 2+ parts](../images/03_Ultimaker2.png)
 
 ### Guides
 * [How to design for FFF 3D printing](https://kea-makerlab.github.io/hello/assets/Ultimaker-guide-how-to-design-for-fff-3d-printing.pdf)
