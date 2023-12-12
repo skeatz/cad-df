@@ -176,12 +176,12 @@
 ![Example for Individual Assignment](../images/03_ind-assignment.png)
 
 ### Assignment 2
-- Sketch the profile for a fidget spinner toy and extrude it into a 3D model. The fidget spinner uses the following parts:
+- Sketch the profile for a fidget spinner toy and extrude it into a 3D model. 3D print the fidget spinner model. The fidget spinner uses the following parts:
   - 608 bearing x1
   - M8 hex nut x3
 
 ### Asignment 3
 - Download a silhouette for a chess piece, e.g. pawn
-- Using the image that you have downloaded, sketch the profile of the piece and turn it into a 3D model using the appropriate 3D command (e.g. extrude, revolve)
+- Using the image that you have downloaded, sketch the profile of the piece and turn it into a 3D model using the appropriate 3D command (e.g. extrude, revolve). 3D print the chess piece.
  
 For all assignments, you have to document the process, include your original CAD/design files and include a "hero" shot of your assignment
