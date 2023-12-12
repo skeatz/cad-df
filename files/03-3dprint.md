@@ -56,7 +56,7 @@
 * [post-processing](http://www.smooth-on.com/Epoxy-Coatings-XTC/c1397_1429/index.html)
 
 ### [Processes](http://3dprintingfromscratch.com/common/types-of-3d-printers-or-3d-printing-technologies-overview/)
-![Types of 3D printers](../images/05_processes.JPG)
+![Types of 3D printers](../images/03_processes.JPG)
 * [stereolithography](http://www.3dsystems.com/3d-printers) (SLA)
 * [digital light processing](https://all3dp.com/2/what-is-a-dlp-3d-printer-3d-printing-simply-explained/) (DLP)
 * [fused deposition modelling](http://www.stratasys.com/3d-printers)/fused filament fabrication
@@ -132,14 +132,14 @@
 * [GrabCAD](https://grabcad.com/)
 
 ### [Workflow] 
-![3D printing workflow](../images/05_3dprinting_workflow.jpg)
+![3D printing workflow](../images/03_3dprinting_workflow.jpg)
 * 3D Model (design, download, scan)
 * Generate STL, OBJ, 3MF
 * Slicer
 * gcode
 
 ### [Parts of 3D Printer] 
-![Parts of 3D Printer](../images/05_3dprinter_components.jpg)
+![Parts of 3D Printer](../images/03_3dprinter_components.jpg)
 * filament
 * extruder
 * build plate
@@ -148,7 +148,7 @@
 * motor drives
 
 **Ultimaker 2+ Parts**
-![Ultimaker 2+ parts](../images/05_Ultimaker2.png)
+![Ultimaker 2+ parts](../images/03_Ultimaker2.png)
 
 ### Guides
 * [How to design for FFF 3D printing](https://kea-makerlab.github.io/hello/assets/Ultimaker-guide-how-to-design-for-fff-3d-printing.pdf)
@@ -169,15 +169,19 @@
 ### Worksheet
 * [Introduction to 3D printing](3d-printed-tool.pdf)
 
-### Assignment
-* Group: 
-  * test the design rules for a 3D printer: bridging, overhang, infill density, clearance, etc
-  * 4 members to a group, each person to design model to test one feature of the 3D printer
-  * Document your contribution & link to the pages of your other group members
-* Individual: design and 3D print an object (small, few cm3, limited by printer time)
-         that could not be made subtractively
-    
-**For all assignments, you have to document the process, include your original CAD/design files and include a "hero" shot of your assignment**
+### Assignment 1
+* Group: test the design rules for a 3D printer: bridging, overhang, infill density, clearance, etc
+* Individual: design and 3D print an object (small, few cm3, limited by printer time) that could not be made subtractively
 
-### Example of Individual Assignment 
-![Example for Individual Assignment](../images/05_ind-assignment.png)
+![Example for Individual Assignment](../images/03_ind-assignment.png)
+
+### Assignment 2
+- Sketch the profile for a fidget spinner toy and extrude it into a 3D model. The fidget spinner uses the following parts:
+  - 608 bearing x1
+  - M8 hex nut x3
+
+### Asignment 3
+- Download a silhouette for a chess piece, e.g. pawn
+- Using the image that you have downloaded, sketch the profile of the piece and turn it into a 3D model using the appropriate 3D command (e.g. extrude, revolve)
+ 
+For all assignments, you have to document the process, include your original CAD/design files and include a "hero" shot of your assignment
