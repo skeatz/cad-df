@@ -1,12 +1,12 @@
 # Embedded Programming w/Arduino
 
-## Notes
-*RD Notes*
-- [Introduction to Electronics](https://rdorville.github.io/EP1000/Electronics/electronics.html)
+## Embedded Programming Notes
+- [Introduction to Electronics](https://skeatz.github.io/ep1000digfab/07_electronics/electronics.html)
 - [Electronics Prototyping](electronics-prototyping.pdf)
-- [Introduction to Programming the Microcontroller](https://rdorville.github.io/EP1000/arduino/arduinoProgramming.html)
-- [Analog I/O](https://rdorville.github.io/EP1000/arduino/arduinoAnalogIO.html)
-- [Arduino Libraries](https://rdorville.github.io/EP1000/arduino/libraries.html)
+- [Introduction to Programming the Microcontroller](https://skeatz.github.io/ep1000digfab/08_embedded_systems/programming.html)
+- [Simple Input/Output Devices](https://skeatz.github.io/ep1000digfab/08_embedded_systems/simpleio.html)
+- [Using Arduino Libraries](https://skeatz.github.io/ep1000digfab/08_embedded_systems/libraries.html)
+<br>
 
 *Arduino Site*
 - [arduino.cc](https://www.arduino.cc/)
