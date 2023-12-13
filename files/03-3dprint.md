@@ -1,5 +1,5 @@
 # 3D Printing
-### [Fablab 3D Printing notes](https://splms.polite.edu.sg/d2l/le/lessons/94979/topics/4250743)
+### [Fablab 3D Printing notes](https://splms.polite.edu.sg/d2l/le/lessons/94979/topics/4250743) (need SP account)
 
 ### [Manufacturing Processes](https://en.wikipedia.org/wiki/List_of_manufacturing_processes)
 * [Additive vs Subtractive](https://all3dp.com/2/additive-vs-subtractive-manufacturing-simply-explained/)
