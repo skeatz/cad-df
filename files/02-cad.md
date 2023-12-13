@@ -1,19 +1,24 @@
-# Computer Aided Design (CAD)
-* **2D Raster**
+### Computer Aided Design (CAD)
+- [Introduction to Computer Aided Design](https://skeatz.github.io/ep1000digfab/04_CAD/CAD_introduction.html)
+- [Creating 3D Models using Fusion 360](https://skeatz.github.io/ep1000digfab/04_CAD/creating_models.html)
+- [Parametric Design Techniques](https://skeatz.github.io/ep1000digfab/04_CAD/parametric_design.html)
+
+<br>
+
+- **2D Raster**
   * [GIMP](https://www.gimp.org/)
-    * [Tutorial](https://www.gimp.org/tutorials/)
     * [Gimp Quickies](https://www.gimp.org/tutorials/GIMP_Quickies/)
-    * [Gimp Basics](https://www.gimp.org/tutorials/)
-    * [Video Tutorial (Complete)](https://www.youtube.com/watch?v=2EPIUyFJ4ag&t=37s)
+    * [Gimp Tutorials](https://www.gimp.org/tutorials/)
     * [Gimp for Beginners](https://daviesmediadesign.com/20-gimp-2-10-tutorials-for-beginners/)
     * [Remove Background](https://www.youtube.com/watch?v=Gfu_kQppNG0)
+    * [Video Tutorial (Complete)](https://www.youtube.com/watch?v=2EPIUyFJ4ag&t=37s)
+    
   * [Photoshop](https://www.adobe.com/products/photoshop.html)
     * [Tutorial](https://helpx.adobe.com/photoshop/tutorials.html)
     * [User guide](https://helpx.adobe.com/photoshop/user-guide.html)
-  * [Krita](https://krita.org/en/)
-  * [MyPaint](http://mypaint.org/)
+  * Other image editors: [Krita](https://krita.org/en/), [MyPaint](http://mypaint.org/)
   * [ImageMagick](https://imagemagick.org/index.php)
-    * [encoding](http://academy.cba.mit.edu/classes/computer_design/image.html)
+  * [Basic image editing (Gimp, ImageMagick)](http://academy.cba.mit.edu/classes/computer_design/image.html)
 * **2D Vector**
   * [Inkscape](https://inkscape.org/)
     * [Shapes, boolean, clone](http://academy.cba.mit.edu/classes/computer_design/inkscape.mp4)
@@ -24,6 +29,8 @@
     * [Inkscape Basics](https://www.youtube.com/playlist?list=PL_7viLFyJ7sAx1Ykjn5mqwVLfqIrs7UEy)
   * [CorelDraw](https://www.coreldraw.com/en/)
   * [Illustrator](https://www.adobe.com/products/illustrator.html)
+<br>
+
 * **3D**
   * [Onshape](https://www.onshape.com/en/)
     * [Onshape Help](https://cad.onshape.com/help/Content/Primer/onshape_primer.htm?tocpath=Welcome%20to%20Onshape%20Help%7COnshape%20Primer%7C_____0)
