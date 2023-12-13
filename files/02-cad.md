@@ -1,7 +1,9 @@
-### Computer Aided Design (CAD)
+### Computer Aided Design Notes
 - [Introduction to Computer Aided Design](https://skeatz.github.io/ep1000digfab/04_CAD/CAD_introduction.html)
 - [Creating 3D Models using Fusion 360](https://skeatz.github.io/ep1000digfab/04_CAD/creating_models.html)
-- [Parametric Design Techniques](https://skeatz.github.io/ep1000digfab/04_CAD/parametric_design.html)
+- [Parametric design techniques](https://skeatz.github.io/ep1000digfab/04_CAD/parametric_design.html)
+- [Further Fusion 360 design techniques](https://skeatz.github.io/ep1000digfab/04_CAD/further_fusion_techniques.html)
+- [More 3D modelling techniques](https://skeatz.github.io/ep1000digfab/04_CAD/3d_modelling.html)
 
 <br>
 
