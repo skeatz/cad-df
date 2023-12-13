@@ -1,5 +1,5 @@
 ### Laser Cutting Notes
-- [Laser Cutting lecture notes](https://skeatz.github.io/ep1000digfab/05_3d_printing/3d_printing.html)
+- [Laser Cutting lecture notes](https://skeatz.github.io/ep1000digfab/06_lasercutting/laser_cutting.html)
 - [Lasercutter theory & operation](https://skeatz.github.io/ep1000digfab/06_lasercutting/ep1000_lasercutting.pdf)
 - [Designing for lasercutting](https://skeatz.github.io/ep1000digfab/06_lasercutting/ep1000_cutting.pdf)
 - [Worksheet 1: keychain/nametag](04_LasercuttingWorksheet-1.pdf)
