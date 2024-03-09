@@ -37,7 +37,6 @@
   * [Onshape](https://www.onshape.com/en/)
     * [Onshape Help](https://cad.onshape.com/help/Content/Primer/onshape_primer.htm?tocpath=Welcome%20to%20Onshape%20Help%7COnshape%20Primer%7C_____0)
     * [learn.onshape.com](https://learn.onshape.com/)
-    * [Pearce Robotics](http://students.pearcerobotics.com/training/onshape)
     * [Inventbox Tutorials](https://www.youtube.com/playlist?list=PL2935W76vRNEE_NNWlpUar20iUdkFQ1z2)
     * [CAD Sessions Onshape Beginner Tutorials](https://www.youtube.com/playlist?list=PLxmrkna-ixrIQmsPR3MITi4Ru1bnMH4-l)
     * [Wolf Dynamics Intro to Solid Modeling](http://www.wolfdynamics.com/wiki/onshape.pdf)
