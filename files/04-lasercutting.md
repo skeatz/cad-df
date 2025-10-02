@@ -27,6 +27,7 @@
 - [Designing for Lasercutting](https://www.youtube.com/playlist?list=PLv5bCJpKDWIYj7n4dz6wZLkvJQazILfh-)
 
 ### File Generators for Laser Cutting
+- [Boxes.py](https://boxes.hackerspace-bamberg.de/boxes.py)
 - [MakerCase](https://www.makercase.com/#/)
 - [Make a Box](https://makeabox.io/)
 - [Template Maker - Paper Boxes](https://www.templatemaker.nl/en/)
